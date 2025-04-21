@@ -142,16 +142,13 @@ export const themeConfig: ThemeConfig = {
       },
       {
         name: 'GitHub',
-        url: 'https://github.com/radishzzz/astro-theme-retypeset',
+        url: 'https://github.com/sharkAndshark',
       },
+   
       {
-        name: 'Twitter',
-        url: 'https://x.com/radishzz_',
-      },
-      // {
-      //   name: 'Email',
-      //   url: 'https://example@gmail.com',
-      // }
+        name: 'Email',
+        url: 'zhangyijunmetro@hotmail.com',
+      }
     ],
     // year of website start
     startYear: 2024,
